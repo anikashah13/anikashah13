@@ -12,4 +12,4 @@ I'm a Computer Engineering student at the Georgia Institute of Technology intere
 - Embedded systems
 
 📫 **Email:** anikashah113@gmail.com  
-💼 **LinkedIn:** linkedin.com/in/YOUR-LINK
+💼 **LinkedIn:** linkedin.com/in/anika-shah-804835335
