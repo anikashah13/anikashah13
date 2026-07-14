@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Anika Shah 👋
 
-<!--
-**anikashah13/anikashah13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Engineering student at the Georgia Institute of Technology interested in software engineering, AI/ML, computer vision, and embedded systems.
 
-Here are some ideas to get you started:
+## Tech Stack
+**Languages:** Python, Java, C/C++, TypeScript, Swift, SystemVerilog  
+**Frameworks:** Next.js, SwiftUI, PyTorch, FastAI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+- Full-stack software development
+- Artificial intelligence & computer vision
+- Embedded systems
+
+📫 **Email:** anikashah113@gmail.com  
+💼 **LinkedIn:** linkedin.com/in/YOUR-LINK
